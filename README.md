@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Web Developer**
 - 👀 I'm interested in **generative artificial intelligence**
 - 📫 How to reach me @zeith_aguilar
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
